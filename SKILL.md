@@ -62,3 +62,7 @@ Turn one user photo into one finished bitmap memory card. Use the image generati
 ## Delivery
 
 Show the finished image. Briefly name the identification anchor, the six sticker choices, the three English keywords, and the saved path when available.
+
+## License
+
+Copyright © 2026 carolinaaafy. Personal, non-commercial use only. Redistribution or publication as a template, plugin, workflow, marketplace item, or community resource is prohibited without prior written permission. Contact: carolinaaafy（小红书）. See [LICENSE](LICENSE) for the complete terms.
